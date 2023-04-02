@@ -1,0 +1,37 @@
+[
+  {
+    "day": "mon",
+    "amount": 17.45,
+    "isHovered": false
+  },
+  {
+    "day": "tue",
+    "amount": 34.91,
+    "isHovered": false
+  },
+  {
+    "day": "wed",
+    "amount": 52.36,
+    "isHovered": false
+  },
+  {
+    "day": "thu",
+    "amount": 31.07,
+    "isHovered": false
+  },
+  {
+    "day": "fri",
+    "amount": 23.39,
+    "isHovered": false
+  },
+  {
+    "day": "sat",
+    "amount": 43.28,
+    "isHovered": false
+  },
+  {
+    "day": "sun",
+    "amount": 25.48,
+    "isHovered": false
+  }
+]
